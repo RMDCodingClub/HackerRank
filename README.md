@@ -1,1 +1,1 @@
-# HackerRank Solutions
+# iNautix HackerRank Solutions
